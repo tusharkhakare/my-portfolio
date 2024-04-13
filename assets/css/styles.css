@@ -492,7 +492,7 @@ span{
 
 /* ===== MEDIA QUERIES =====*/
 /* For small devices */
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 350px) {
   .home__img {
     /* width: 230px; */
     /* border: 2px solid red; */
